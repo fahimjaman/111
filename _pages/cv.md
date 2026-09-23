@@ -7,16 +7,19 @@ author_profile: true
 
 ## Education
 
-- Ph.D. in Transportation & Urban Infrastructure Studies, Morgan State University — ongoing
-- M.Eng. in Transportation Engineering, Morgan State University — 2026
-- B.S. in Civil Engineering (Transportation), University of Asia Pacific — 2022
+- **M.Eng. in Transportation Engineering**, Morgan State University — Expected 2026
+- **Ph.D. in Transportation & Urban Infrastructure Studies**, Morgan State University — doctoral studies
+- **B.S. in Civil Engineering (Transportation)**, University of Asia Pacific — 2022; GPA 3.51/4.00
 
 ## Research Experience
 
-Graduate Research Assistant, Morgan State University  
-Current projects: Maryland Light RailLink UAS/LiDAR inspection, Complete Streets, Highway Safety Manual / CMFs.
+**Graduate Research Assistant — Morgan State University**
 
-## Teaching
+- UAS and LiDAR inspection of Maryland Light RailLink
+- Road Space Allocation for Complete Streets
+- Highway Safety Manual and Crash Modification Factors
+
+## Teaching Experience
 
 - Public Transportation Systems
 - Intelligent Transportation Systems
@@ -26,14 +29,21 @@ Current projects: Maryland Light RailLink UAS/LiDAR inspection, Complete Streets
 
 ## Professional Experience
 
-- Executive Engineer, GoldSand Group (2022–2023)
-- Assistant Engineer, Chayabithi Development Ltd. (2023–2024)
+- **Executive Engineer**, GoldSand Group — 2022–2023
+- **Assistant Engineer**, Chayabithi Development Ltd. — 2023–2024
 
-## Skills
+## Research Interests
 
-**Methods:** SEM, Difference-in-Differences, DEA, statistical modeling, machine learning, simulation  
+Public transportation, shared-use mobility, traffic safety, accident analysis, driver and pedestrian behavior, highway geometric design, traffic operations, ITS, CAVs, non-motorized transportation, transportation equity, urban transportation, accessibility, transportation planning, and UAS/LiDAR applications.
+
+## Methods
+
+Structural Equation Modeling (SEM), Difference-in-Differences, Data Envelopment Analysis (DEA), statistical/econometric modeling, machine learning, and transportation simulation.
+
+## Technical Skills
+
 **Programming:** Python, MATLAB, C++  
-**Software:** ArcGIS, AutoCAD, ETABS, SPSS, Amos, SCARM, Google Earth Pro, Code::Blocks, Microsoft Office
+**Software:** ArcGIS Pro, AutoCAD, ETABS, SPSS, IBM SPSS Amos, SCARM, Google Earth Pro, Code::Blocks, Microsoft Office
 
 ## Publications
 
