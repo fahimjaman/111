@@ -6,7 +6,7 @@ title_separator: "|"
 name: &name "Fahim Jaman"
 description: &description "Transportation engineering researcher working on public transportation, safety, ITS, shared mobility, and data-driven transportation systems."
 url: "https://fahimjaman.github.io"
-baseurl: ""
+baseurl: "/111"
 repository: "fahimjaman/111"
 
 author:
@@ -16,16 +16,16 @@ author:
   bio: "Transportation Engineering Researcher | Morgan State University"
   location: "Baltimore, Maryland, USA"
   employer: "Morgan State University"
-  uri: "https://fahimjaman.github.io/"
+  uri: "https://fahimjaman.github.io/111/"
   email: "fajam1@morgan.edu"
-  academia: "https://morgan.academia.edu/"
+  academia: "https://morgan.academia.edu/FahimJaman"
   arxiv:
-  googlescholar: "https://scholar.google.com/"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=lpplKBoAAAAJ"
   orcid: "https://orcid.org/0000-0003-4024-2592"
-  researchgate: "https://www.researchgate.net/"
+  researchgate: "https://www.researchgate.net/profile/Fahim-Jaman"
   scopus:
   github: "fahimjaman"
-  linkedin: "https://www.linkedin.com/"
+  linkedin: "https://www.linkedin.com/in/fjaman/"
   facebook:
   twitter:
 
