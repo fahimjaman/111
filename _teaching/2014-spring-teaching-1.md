@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Transportation Engineering Teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/transportation-engineering/
+venue: "Morgan State University"
+date: 2026-01-01
+location: "Baltimore, Maryland, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I support undergraduate and graduate transportation engineering instruction at Morgan State University.
 
-Heading 1
-======
+### Courses
 
-Heading 2
-======
-
-Heading 3
-======
+- Public Transportation Systems — TRSS 406 / TRSP 606
+- Intelligent Transportation Systems (ITS) — TRSS 417 / TRSP 617
+- Introduction to Transportation Engineering — CEGR 416
+- Freight Transportation Systems and Logistics — TRSS 307
+- Introduction to Rail Transportation Systems — TRSS 302
