@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Enhancing Educational Equity through Transportation Accessibility: An Integrated Infrastructure Planning Approach in Rural Bangladesh"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/enhancing-educational-equity-rural-bangladesh/
+date: 2026-06-01
+venue: "Isabela State University Linker: Journal of Engineering, Computing and Technology"
+paperurl: "https://doi.org/10.65141/ject.v3i1.n3"
+citation: 'Jaman, F. (2026). "Enhancing Educational Equity through Transportation Accessibility: An Integrated Infrastructure Planning Approach in Rural Bangladesh." <i>Isabela State University Linker: Journal of Engineering, Computing and Technology</i>, 3(1), 44–55.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research examines the relationship between transportation accessibility and educational infrastructure planning in rural Bangladesh.
