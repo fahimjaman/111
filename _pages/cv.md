@@ -3,62 +3,46 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- Ph.D. in Transportation & Urban Infrastructure Studies, Morgan State University — ongoing
+- M.Eng. in Transportation Engineering, Morgan State University — 2026
+- B.S. in Civil Engineering (Transportation), University of Asia Pacific — 2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Graduate Research Assistant, Morgan State University  
+Current projects: Maryland Light RailLink UAS/LiDAR inspection, Complete Streets, Highway Safety Manual / CMFs.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Teaching
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Public Transportation Systems
+- Intelligent Transportation Systems
+- Introduction to Transportation Engineering
+- Freight Transportation Systems and Logistics
+- Introduction to Rail Transportation Systems
+
+## Professional Experience
+
+- Executive Engineer, GoldSand Group (2022–2023)
+- Assistant Engineer, Chayabithi Development Ltd. (2023–2024)
+
+## Skills
+
+**Methods:** SEM, Difference-in-Differences, DEA, statistical modeling, machine learning, simulation  
+**Programming:** Python, MATLAB, C++  
+**Software:** ArcGIS, AutoCAD, ETABS, SPSS, Amos, SCARM, Google Earth Pro, Code::Blocks, Microsoft Office
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Presentations
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
