@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Teaching Assistant"
+permalink: /teaching/graduate-teaching-assistant/
+venue: "Morgan State University"
+date: 2025-01-01
+location: "Baltimore, Maryland, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate Teaching Assistant supporting student learning, course activities, and transportation engineering instruction across undergraduate and graduate courses.
