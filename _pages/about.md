@@ -1,30 +1,51 @@
 ---
+title: "About"
 permalink: /
-title: "Fahim Jaman"
 author_profile: true
+redirect_from:
+  - /about/
 ---
 
-## Transportation Engineering Researcher
+# Fahim Jaman
 
-I am a transportation engineering researcher at Morgan State University in Baltimore, Maryland, working at the intersection of transportation systems, safety, public transit, intelligent transportation systems, shared mobility, and data-driven infrastructure planning.
+I am a transportation engineering researcher at Morgan State University, Baltimore, Maryland, working at the intersection of **transportation systems, safety, accessibility, emerging technologies, and data-driven analysis**.
 
-My research interests include public transportation and shared-use mobility, traffic safety and crash analysis, driver and pedestrian behavior, highway geometric design and traffic operations, Intelligent Transportation Systems (ITS), connected and autonomous vehicles (CAVs), non-motorized transportation, transportation equity, and transportation planning.
+I am pursuing graduate study in Transportation Engineering and am involved in research and teaching activities within the Department of Civil, Environmental, and Transportation Engineering.
 
-### Research Focus
+## Research Focus
 
-I use quantitative and computational methods to study transportation problems and translate data into practical insights for safer, more accessible, equitable, and sustainable mobility systems. My methodological interests include Structural Equation Modeling (SEM), Difference-in-Differences, Data Envelopment Analysis (DEA), statistical modeling, machine learning, and transportation simulation.
+My research interests include:
 
-### Current Research Projects
+- Public Transportation & Shared-Use Mobility
+- Traffic Safety & Accident Analysis
+- Driver & Pedestrian Behavior
+- Highway Geometric Design & Traffic Operations
+- Intelligent Transportation Systems (ITS)
+- Connected and Autonomous Vehicles (CAVs)
+- Non-Motorized Transportation
+- Transportation Equity
+- Urban Transportation and Accessibility
+- Transportation Planning & Human–Technology Interaction
+- UAS and LiDAR applications for transportation infrastructure
 
-- Automated Track and Overhead Contact System Inspection Using UAS and LiDAR for Maryland Light RailLink
-- Road Space Allocation for Complete Streets
-- Highway Safety Manual (HSM) and Crash Modification Factors (CMFs)
+## Current Research
 
-### Academic Profile
+My current research activities include:
 
-- **M.Eng. in Transportation Engineering**, Morgan State University
-- **Ph.D. studies in Transportation & Urban Infrastructure Studies**, Morgan State University
-- **B.S. in Civil Engineering (Transportation)**, University of Asia Pacific, Bangladesh
-- **Current graduate GPA:** 4.00/4.00
+1. **Automated Track and Overhead Contact System Inspection Using UAS and LiDAR for Maryland Light RailLink**
+2. **Road Space Allocation for Complete Streets**
+3. **Highway Safety Manual and Crash Modification Factors (HSM & CMFs)**
 
-[View my education](/education/) · [View publications](/publications/) · [View CV](/cv/)
+I use quantitative and computational approaches to study transportation problems, including **Structural Equation Modeling (SEM), Difference-in-Differences, Data Envelopment Analysis (DEA), statistical modeling, machine learning, and transportation simulation**.
+
+## Academic Background
+
+I earned my B.S. in Civil Engineering with a concentration in Transportation Engineering from the University of Asia Pacific, Dhaka, Bangladesh. I am continuing advanced study and research in Transportation Engineering at Morgan State University.
+
+## Professional Goal
+
+My goal is to contribute to safer, more accessible, equitable, and sustainable transportation systems through rigorous research, interdisciplinary collaboration, and practical applications of emerging technologies.
+
+[View my research →](/research/)  
+[View my publications →](/publications/)  
+[View my CV →](/cv/)
